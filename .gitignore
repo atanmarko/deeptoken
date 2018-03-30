@@ -1,0 +1,7 @@
+build/
+coverage/
+installed_contracts/
+node_modules/
+.mytestrpc/
+coverage.json
+npm-debug.log
